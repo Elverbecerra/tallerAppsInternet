@@ -1,0 +1,6 @@
+Metodologias Tradicionales
+
+cascada
+espiral
+Prototipo
+Incremental
